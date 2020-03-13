@@ -1,0 +1,5 @@
+mountDir=musicmemorybox
+backupDir=backup
+noBackup=nobackup
+addDir=add
+restoreDir=restore
